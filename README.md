@@ -136,6 +136,6 @@ Distributed under MIT License. See `LICENSE` for details.
 ---
 
 [![RVU](https://img.shields.io/badge/Developed_at-RV_University_Bangalore-blue?logo=university)](https://www.rvu.edu.in)
-```
+
 
 ---
