@@ -51,7 +51,7 @@ graph TD
 | **Clustering**     | K-Means++ with Euclidean distance    |
 | **Summarization**  | DistilBART-CNN-12-6                  |
 | **Evaluation**     | ROUGE, Silhouette Score, DBI         |
-| **Infrastructure** | Google Colab (T4 GPU)                |
+| **Infrastructure** | Apple M3, Google Colab (T4 GPU)                |
 
 ---
 
